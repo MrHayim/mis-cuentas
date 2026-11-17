@@ -1,6 +1,6 @@
 // Mis Cuentas · guarda la app en el teléfono para que abra rápido y sin señal.
 // Sube el número de VERSION cada vez que cambies index.html para que los teléfonos tomen la versión nueva.
-const VERSION = 'mis-cuentas-v1';
+const VERSION = 'mis-cuentas-v2';
 const ARCHIVOS = ['./', 'index.html', 'config.js', 'manifest.webmanifest', 'icon-192.png', 'icon-512.png', 'apple-touch-icon.png'];
 
 self.addEventListener('install', e => {
